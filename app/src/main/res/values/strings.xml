@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuiaSorocabaCAFE</string>
+    <string name="bntvoltar">Voltar</string>
+    <string name="bntsaibamais">Saiba Mais</string>
+    <string name="bntsite">Site</string>
+    <string name="bntmaps">Mapa</string>
+    <string name="bntligar">Ligar</string>
+    <string name="textsantacrema">O menu deste café é recomendado para os amantes da culinária. Muitos clientes dizem que os garçons oferecem tamboril saboroso, pão de queijo bom e filé américain ótimo aqui. Prove bolo de queijo fascinante, brownies saborosos e torta de maçã boa para formar a sua opinião sobre café Santa Crema Café. </string>
+    <string name="textpadariareal">Os irmãos José Vicente de Souza e Carlos Alberto de Souza (in memoriam) abriram a Padaria Real em 1957, na rua da Penha, esquina com a avenida Moreira César, quando a cidade tinha cerca de cem mil habitantes. Crescer com Sorocaba era o sonho que os irmãos alimentavam, herdeiros do talento empreendedor dos pais, Filomena de Souza, a dona Nenê, e José de Souza.</string>
+    <string name="textZoo">O Parque Zoológico Municipal Quinzinho de Barros – Zoológico Municipal de Sorocaba é um jardim zoológico situado no município de Sorocaba </string>
+    <string name="textmenu">As melhores atrações para visitar em Sorocaba </string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_key">-----</string>
+</resources>

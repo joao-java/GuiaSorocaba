@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#94B6ECF3"
+    tools:context=".padariareal">
+
+    <LinearLayout
+        android:layout_width="375dp"
+        android:layout_height="635dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/textpadariareal" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="97dp"
+            android:src="@drawable/padariareal1"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+
+            android:id="@+id/image2"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:src="@drawable/padariareal2"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/bntSite2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bntsite"
+            android:textColorLink="#FF9800"
+            app:icon="@android:color/holo_orange_dark"
+            app:rippleColor="#FF9800" />
+
+        <Button
+            android:id="@+id/bntLigar2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bntligar" />
+
+
+        <Button
+            android:id="@+id/bntMapa2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bntmaps" />
+
+        <Button
+            android:id="@+id/bntvoltar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/bntvoltar" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
